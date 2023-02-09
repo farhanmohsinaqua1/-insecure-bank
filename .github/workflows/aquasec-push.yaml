@@ -22,3 +22,4 @@ jobs:
           AQUA_SECRET: ${{ secrets.AQUA_SECRET }}
           TRIVY_RUN_AS_PLUGIN: 'aqua'
           PACKAGE_JSON: 1
+###Just checking
